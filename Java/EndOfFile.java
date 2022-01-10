@@ -10,7 +10,7 @@ class EndOfFile {
         Scanner scan = new Scanner(System.in);
         
         int i = 1;
-        while (scan.hasNext()) {
+        while (scan.hasNextLine()) {
             System.out.println(i + " " + scan.nextLine());
             i++;
         }
