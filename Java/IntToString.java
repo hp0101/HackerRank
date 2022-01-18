@@ -16,11 +16,12 @@ public class IntToString {
     for (int i = 0; i < str.length(); i++ ) {
         System.out.print(str.charAt(i));
     }
-   
+
+
    if (n == Integer.parseInt(str)) {
-    System.out.println("Good job");
+    System.out.println("\nGood job");
    } else {
-    System.out.println("Wrong answer.");
+    System.out.println("\nWrong answer.");
    }
   } catch (DoNotTerminate.ExitTrappedException e) {
    System.out.println("Unsuccessful Termination!!");
