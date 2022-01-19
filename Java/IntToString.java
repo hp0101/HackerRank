@@ -8,20 +8,34 @@ public class IntToString {
 
   try {
    Scanner in = new Scanner(System.in);
-   int n = in .nextInt();
+   int n = in.nextInt();
    in.close();
 
-   String str = "300"; // 300
+   String s = "";
+   int nn = n;
+   boolean neg = false;
 
-    for (int i = 0; i < str.length(); i++ ) {
-        System.out.print(str.charAt(i));
-    }
+   if (nn < 0) {
+    nn *= -1;
+    neg = true;
+   }
 
+   while (nn > 0) {
+    s = (nn % 10) + s;
+    nn /= 10;
+   }
 
-   if (n == Integer.parseInt(str)) {
-    System.out.println("\nGood job");
+   if (neg == true) s = "-" + s;
+
+   if (n == 0) s = "0";
+
+   System.out.println(n);
+   System.out.println(s);
+
+   if (n == Integer.parseInt(s)) {
+    System.out.println("Good job");
    } else {
-    System.out.println("\nWrong answer.");
+    System.out.println("Wrong answer.");
    }
   } catch (DoNotTerminate.ExitTrappedException e) {
    System.out.println("Unsuccessful Termination!!");
