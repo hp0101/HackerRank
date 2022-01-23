@@ -20,7 +20,18 @@ class Result {
         System.out.println("(width) arr.size()=" + arr.size());
         System.out.println("(length) arr.get(0).size() = " + arr.get(0).size());
         
-        return 0;
+        int length = arr.get(0).size();
+        int firstDiagonalSum = 0;
+        int secondDiagonalSum = 0;
+        int j = length - 1;
+        
+        for (int i = 0; i < length; i++) {
+            firstDiagonalSum += arr.get(i).get(i);
+            secondDiagonalSum += arr.get(i).get(j);
+            j--;
+        }
+        
+        return Math.abs(firstDiagonalSum - secondDiagonalSum);
     }
 
 }
@@ -38,13 +49,21 @@ public class DiagonalDifference {
                     {
                         add(0);
                         add(1);
-                        add(1);
+                        add(2);
                     }
                 });
                 add(new ArrayList<>() {
                     {
                         add(0);
                         add(1);
+                        add(2);
+                    }
+                });
+                add(new ArrayList<>() {
+                    {
+                        add(0);
+                        add(1);
+                        add(2);
                     }
                 });
             }
