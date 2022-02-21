@@ -16,10 +16,23 @@ class Result {
      */
 
     public static List<Integer> gradingStudents(List<Integer> grades) {
-    // Write your code here
+    
+        List<Integer> newArr = new ArrayList<>();
 
+        for (int i = 0; i < grades.size(); i++) {
+            if (grades.get(i) > 37 & (grades.get(i) % 5 == 3)) {
+                newArr.add(grades.get(i) + 2);
+            }
+            else if (grades.get(i) > 37 & (grades.get(i) % 5 == 4)) {
+                newArr.add(grades.get(i) + 1);
+            }
+            else {
+                newArr.add(grades.get(i));
+            }
+        }
+
+        return newArr;
     }
-
 }
 
 public class GradingStudents {
@@ -29,7 +42,15 @@ public class GradingStudents {
 
         // int gradesCount = Integer.parseInt(bufferedReader.readLine().trim());
 
-        List<Integer> grades = new ArrayList<>();
+        List<Integer> grades = new ArrayList<>() {
+            {
+                add(4);
+                add(73);
+                add(67);
+                add(38);
+                add(33);
+            }
+        };
 
         // for (int i = 0; i < gradesCount; i++) {
         //     int gradesItem = Integer.parseInt(bufferedReader.readLine().trim());
@@ -37,7 +58,8 @@ public class GradingStudents {
         // }
 
         List<Integer> result = Result.gradingStudents(grades);
-
+            
+        System.out.println(result);
         // for (int i = 0; i < result.size(); i++) {
         //     bufferedWriter.write(String.valueOf(result.get(i)));
 
