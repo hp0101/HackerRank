@@ -1,0 +1,1003 @@
+<NLS>
+	<LOAN UpdateFlag="1" AcctRefno="1">
+		<COMMUNICATION>
+			<EMAILADDRESSES>
+				<EMAILADDRESS Operation="ADD" Address="hphan@nortridge.com"/>
+			</EMAILADDRESSES>
+		</COMMUNICATION>
+	</LOAN>
+	<LOAN UpdateFlag="1" AcctRefno="2">
+		<COMMUNICATION>
+			<EMAILADDRESSES>
+				<EMAILADDRESS Operation="ADD" Address="hphan@nortridge.com"/>
+			</EMAILADDRESSES>
+		</COMMUNICATION>
+	</LOAN>
+	<LOAN UpdateFlag="1" AcctRefno="3">
+		<COMMUNICATION>
+			<EMAILADDRESSES>
+				<EMAILADDRESS Operation="ADD" Address="hphan@nortridge.com"/>
+			</EMAILADDRESSES>
+		</COMMUNICATION>
+	</LOAN>
+	<LOAN UpdateFlag="1" AcctRefno="5">
+		<COMMUNICATION>
+			<EMAILADDRESSES>
+				<EMAILADDRESS Operation="ADD" Address="hphan@nortridge.com"/>
+			</EMAILADDRESSES>
+		</COMMUNICATION>
+	</LOAN>
+	<LOAN UpdateFlag="1" AcctRefno="6">
+		<COMMUNICATION>
+			<EMAILADDRESSES>
+				<EMAILADDRESS Operation="ADD" Address="hphan@nortridge.com"/>
+			</EMAILADDRESSES>
+		</COMMUNICATION>
+	</LOAN>
+	<LOAN UpdateFlag="1" AcctRefno="7">
+		<COMMUNICATION>
+			<EMAILADDRESSES>
+				<EMAILADDRESS Operation="ADD" Address="hphan@nortridge.com"/>
+			</EMAILADDRESSES>
+		</COMMUNICATION>
+	</LOAN>
+	<LOAN UpdateFlag="1" AcctRefno="8">
+		<COMMUNICATION>
+			<EMAILADDRESSES>
+				<EMAILADDRESS Operation="ADD" Address="hphan@nortridge.com"/>
+			</EMAILADDRESSES>
+		</COMMUNICATION>
+	</LOAN>
+	<LOAN UpdateFlag="1" AcctRefno="9">
+		<COMMUNICATION>
+			<EMAILADDRESSES>
+				<EMAILADDRESS Operation="ADD" Address="hphan@nortridge.com"/>
+			</EMAILADDRESSES>
+		</COMMUNICATION>
+	</LOAN>
+	<LOAN UpdateFlag="1" AcctRefno="10">
+		<COMMUNICATION>
+			<EMAILADDRESSES>
+				<EMAILADDRESS Operation="ADD" Address="hphan@nortridge.com"/>
+			</EMAILADDRESSES>
+		</COMMUNICATION>
+	</LOAN>
+	<LOAN UpdateFlag="1" AcctRefno="11">
+		<COMMUNICATION>
+			<EMAILADDRESSES>
+				<EMAILADDRESS Operation="ADD" Address="hphan@nortridge.com"/>
+			</EMAILADDRESSES>
+		</COMMUNICATION>
+	</LOAN>
+	<LOAN UpdateFlag="1" AcctRefno="12">
+		<COMMUNICATION>
+			<EMAILADDRESSES>
+				<EMAILADDRESS Operation="ADD" Address="hphan@nortridge.com"/>
+			</EMAILADDRESSES>
+		</COMMUNICATION>
+	</LOAN>
+	<LOAN UpdateFlag="1" AcctRefno="13">
+		<COMMUNICATION>
+			<EMAILADDRESSES>
+				<EMAILADDRESS Operation="ADD" Address="hphan@nortridge.com"/>
+			</EMAILADDRESSES>
+		</COMMUNICATION>
+	</LOAN>
+	<LOAN UpdateFlag="1" AcctRefno="14">
+		<COMMUNICATION>
+			<EMAILADDRESSES>
+				<EMAILADDRESS Operation="ADD" Address="hphan@nortridge.com"/>
+			</EMAILADDRESSES>
+		</COMMUNICATION>
+	</LOAN>
+	<LOAN UpdateFlag="1" AcctRefno="16">
+		<COMMUNICATION>
+			<EMAILADDRESSES>
+				<EMAILADDRESS Operation="ADD" Address="hphan@nortridge.com"/>
+			</EMAILADDRESSES>
+		</COMMUNICATION>
+	</LOAN>
+	<LOAN UpdateFlag="1" AcctRefno="17">
+		<COMMUNICATION>
+			<EMAILADDRESSES>
+				<EMAILADDRESS Operation="ADD" Address="hphan@nortridge.com"/>
+			</EMAILADDRESSES>
+		</COMMUNICATION>
+	</LOAN>
+	<LOAN UpdateFlag="1" AcctRefno="18">
+		<COMMUNICATION>
+			<EMAILADDRESSES>
+				<EMAILADDRESS Operation="ADD" Address="hphan@nortridge.com"/>
+			</EMAILADDRESSES>
+		</COMMUNICATION>
+	</LOAN>
+	<LOAN UpdateFlag="1" AcctRefno="19">
+		<COMMUNICATION>
+			<EMAILADDRESSES>
+				<EMAILADDRESS Operation="ADD" Address="hphan@nortridge.com"/>
+			</EMAILADDRESSES>
+		</COMMUNICATION>
+	</LOAN>
+	<LOAN UpdateFlag="1" AcctRefno="20">
+		<COMMUNICATION>
+			<EMAILADDRESSES>
+				<EMAILADDRESS Operation="ADD" Address="hphan@nortridge.com"/>
+			</EMAILADDRESSES>
+		</COMMUNICATION>
+	</LOAN>
+	<LOAN UpdateFlag="1" AcctRefno="21">
+		<COMMUNICATION>
+			<EMAILADDRESSES>
+				<EMAILADDRESS Operation="ADD" Address="hphan@nortridge.com"/>
+			</EMAILADDRESSES>
+		</COMMUNICATION>
+	</LOAN>
+	<LOAN UpdateFlag="1" AcctRefno="22">
+		<COMMUNICATION>
+			<EMAILADDRESSES>
+				<EMAILADDRESS Operation="ADD" Address="hphan@nortridge.com"/>
+			</EMAILADDRESSES>
+		</COMMUNICATION>
+	</LOAN>
+	<LOAN UpdateFlag="1" AcctRefno="23">
+		<COMMUNICATION>
+			<EMAILADDRESSES>
+				<EMAILADDRESS Operation="ADD" Address="hphan@nortridge.com"/>
+			</EMAILADDRESSES>
+		</COMMUNICATION>
+	</LOAN>
+	<LOAN UpdateFlag="1" AcctRefno="24">
+		<COMMUNICATION>
+			<EMAILADDRESSES>
+				<EMAILADDRESS Operation="ADD" Address="hphan@nortridge.com"/>
+			</EMAILADDRESSES>
+		</COMMUNICATION>
+	</LOAN>
+	<LOAN UpdateFlag="1" AcctRefno="25">
+		<COMMUNICATION>
+			<EMAILADDRESSES>
+				<EMAILADDRESS Operation="ADD" Address="hphan@nortridge.com"/>
+			</EMAILADDRESSES>
+		</COMMUNICATION>
+	</LOAN>
+	<LOAN UpdateFlag="1" AcctRefno="26">
+		<COMMUNICATION>
+			<EMAILADDRESSES>
+				<EMAILADDRESS Operation="ADD" Address="hphan@nortridge.com"/>
+			</EMAILADDRESSES>
+		</COMMUNICATION>
+	</LOAN>
+	<LOAN UpdateFlag="1" AcctRefno="27">
+		<COMMUNICATION>
+			<EMAILADDRESSES>
+				<EMAILADDRESS Operation="ADD" Address="hphan@nortridge.com"/>
+			</EMAILADDRESSES>
+		</COMMUNICATION>
+	</LOAN>
+	<LOAN UpdateFlag="1" AcctRefno="30">
+		<COMMUNICATION>
+			<EMAILADDRESSES>
+				<EMAILADDRESS Operation="ADD" Address="hphan@nortridge.com"/>
+			</EMAILADDRESSES>
+		</COMMUNICATION>
+	</LOAN>
+	<LOAN UpdateFlag="1" AcctRefno="31">
+		<COMMUNICATION>
+			<EMAILADDRESSES>
+				<EMAILADDRESS Operation="ADD" Address="hphan@nortridge.com"/>
+			</EMAILADDRESSES>
+		</COMMUNICATION>
+	</LOAN>
+	<LOAN UpdateFlag="1" AcctRefno="32">
+		<COMMUNICATION>
+			<EMAILADDRESSES>
+				<EMAILADDRESS Operation="ADD" Address="hphan@nortridge.com"/>
+			</EMAILADDRESSES>
+		</COMMUNICATION>
+	</LOAN>
+	<LOAN UpdateFlag="1" AcctRefno="33">
+		<COMMUNICATION>
+			<EMAILADDRESSES>
+				<EMAILADDRESS Operation="ADD" Address="hphan@nortridge.com"/>
+			</EMAILADDRESSES>
+		</COMMUNICATION>
+	</LOAN>
+	<LOAN UpdateFlag="1" AcctRefno="34">
+		<COMMUNICATION>
+			<EMAILADDRESSES>
+				<EMAILADDRESS Operation="ADD" Address="hphan@nortridge.com"/>
+			</EMAILADDRESSES>
+		</COMMUNICATION>
+	</LOAN>
+	<LOAN UpdateFlag="1" AcctRefno="35">
+		<COMMUNICATION>
+			<EMAILADDRESSES>
+				<EMAILADDRESS Operation="ADD" Address="hphan@nortridge.com"/>
+			</EMAILADDRESSES>
+		</COMMUNICATION>
+	</LOAN>
+	<LOAN UpdateFlag="1" AcctRefno="36">
+		<COMMUNICATION>
+			<EMAILADDRESSES>
+				<EMAILADDRESS Operation="ADD" Address="hphan@nortridge.com"/>
+			</EMAILADDRESSES>
+		</COMMUNICATION>
+	</LOAN>
+	<LOAN UpdateFlag="1" AcctRefno="37">
+		<COMMUNICATION>
+			<EMAILADDRESSES>
+				<EMAILADDRESS Operation="ADD" Address="hphan@nortridge.com"/>
+			</EMAILADDRESSES>
+		</COMMUNICATION>
+	</LOAN>
+	<LOAN UpdateFlag="1" AcctRefno="40">
+		<COMMUNICATION>
+			<EMAILADDRESSES>
+				<EMAILADDRESS Operation="ADD" Address="hphan@nortridge.com"/>
+			</EMAILADDRESSES>
+		</COMMUNICATION>
+	</LOAN>
+	<LOAN UpdateFlag="1" AcctRefno="42">
+		<COMMUNICATION>
+			<EMAILADDRESSES>
+				<EMAILADDRESS Operation="ADD" Address="hphan@nortridge.com"/>
+			</EMAILADDRESSES>
+		</COMMUNICATION>
+	</LOAN>
+	<LOAN UpdateFlag="1" AcctRefno="43">
+		<COMMUNICATION>
+			<EMAILADDRESSES>
+				<EMAILADDRESS Operation="ADD" Address="hphan@nortridge.com"/>
+			</EMAILADDRESSES>
+		</COMMUNICATION>
+	</LOAN>
+	<LOAN UpdateFlag="1" AcctRefno="44">
+		<COMMUNICATION>
+			<EMAILADDRESSES>
+				<EMAILADDRESS Operation="ADD" Address="hphan@nortridge.com"/>
+			</EMAILADDRESSES>
+		</COMMUNICATION>
+	</LOAN>
+	<LOAN UpdateFlag="1" AcctRefno="45">
+		<COMMUNICATION>
+			<EMAILADDRESSES>
+				<EMAILADDRESS Operation="ADD" Address="hphan@nortridge.com"/>
+			</EMAILADDRESSES>
+		</COMMUNICATION>
+	</LOAN>
+	<LOAN UpdateFlag="1" AcctRefno="46">
+		<COMMUNICATION>
+			<EMAILADDRESSES>
+				<EMAILADDRESS Operation="ADD" Address="hphan@nortridge.com"/>
+			</EMAILADDRESSES>
+		</COMMUNICATION>
+	</LOAN>
+	<LOAN UpdateFlag="1" AcctRefno="47">
+		<COMMUNICATION>
+			<EMAILADDRESSES>
+				<EMAILADDRESS Operation="ADD" Address="hphan@nortridge.com"/>
+			</EMAILADDRESSES>
+		</COMMUNICATION>
+	</LOAN>
+	<LOAN UpdateFlag="1" AcctRefno="48">
+		<COMMUNICATION>
+			<EMAILADDRESSES>
+				<EMAILADDRESS Operation="ADD" Address="hphan@nortridge.com"/>
+			</EMAILADDRESSES>
+		</COMMUNICATION>
+	</LOAN>
+	<LOAN UpdateFlag="1" AcctRefno="51">
+		<COMMUNICATION>
+			<EMAILADDRESSES>
+				<EMAILADDRESS Operation="ADD" Address="hphan@nortridge.com"/>
+			</EMAILADDRESSES>
+		</COMMUNICATION>
+	</LOAN>
+	<LOAN UpdateFlag="1" AcctRefno="52">
+		<COMMUNICATION>
+			<EMAILADDRESSES>
+				<EMAILADDRESS Operation="ADD" Address="hphan@nortridge.com"/>
+			</EMAILADDRESSES>
+		</COMMUNICATION>
+	</LOAN>
+	<LOAN UpdateFlag="1" AcctRefno="57">
+		<COMMUNICATION>
+			<EMAILADDRESSES>
+				<EMAILADDRESS Operation="ADD" Address="hphan@nortridge.com"/>
+			</EMAILADDRESSES>
+		</COMMUNICATION>
+	</LOAN>
+	<LOAN UpdateFlag="1" AcctRefno="58">
+		<COMMUNICATION>
+			<EMAILADDRESSES>
+				<EMAILADDRESS Operation="ADD" Address="hphan@nortridge.com"/>
+			</EMAILADDRESSES>
+		</COMMUNICATION>
+	</LOAN>
+	<LOAN UpdateFlag="1" AcctRefno="59">
+		<COMMUNICATION>
+			<EMAILADDRESSES>
+				<EMAILADDRESS Operation="ADD" Address="hphan@nortridge.com"/>
+			</EMAILADDRESSES>
+		</COMMUNICATION>
+	</LOAN>
+	<LOAN UpdateFlag="1" AcctRefno="60">
+		<COMMUNICATION>
+			<EMAILADDRESSES>
+				<EMAILADDRESS Operation="ADD" Address="hphan@nortridge.com"/>
+			</EMAILADDRESSES>
+		</COMMUNICATION>
+	</LOAN>
+	<LOAN UpdateFlag="1" AcctRefno="61">
+		<COMMUNICATION>
+			<EMAILADDRESSES>
+				<EMAILADDRESS Operation="ADD" Address="hphan@nortridge.com"/>
+			</EMAILADDRESSES>
+		</COMMUNICATION>
+	</LOAN>
+	<LOAN UpdateFlag="1" AcctRefno="62">
+		<COMMUNICATION>
+			<EMAILADDRESSES>
+				<EMAILADDRESS Operation="ADD" Address="hphan@nortridge.com"/>
+			</EMAILADDRESSES>
+		</COMMUNICATION>
+	</LOAN>
+	<LOAN UpdateFlag="1" AcctRefno="63">
+		<COMMUNICATION>
+			<EMAILADDRESSES>
+				<EMAILADDRESS Operation="ADD" Address="hphan@nortridge.com"/>
+			</EMAILADDRESSES>
+		</COMMUNICATION>
+	</LOAN>
+	<LOAN UpdateFlag="1" AcctRefno="64">
+		<COMMUNICATION>
+			<EMAILADDRESSES>
+				<EMAILADDRESS Operation="ADD" Address="hphan@nortridge.com"/>
+			</EMAILADDRESSES>
+		</COMMUNICATION>
+	</LOAN>
+	<LOAN UpdateFlag="1" AcctRefno="65">
+		<COMMUNICATION>
+			<EMAILADDRESSES>
+				<EMAILADDRESS Operation="ADD" Address="hphan@nortridge.com"/>
+			</EMAILADDRESSES>
+		</COMMUNICATION>
+	</LOAN>
+	<LOAN UpdateFlag="1" AcctRefno="66">
+		<COMMUNICATION>
+			<EMAILADDRESSES>
+				<EMAILADDRESS Operation="ADD" Address="hphan@nortridge.com"/>
+			</EMAILADDRESSES>
+		</COMMUNICATION>
+	</LOAN>
+	<LOAN UpdateFlag="1" AcctRefno="67">
+		<COMMUNICATION>
+			<EMAILADDRESSES>
+				<EMAILADDRESS Operation="ADD" Address="hphan@nortridge.com"/>
+			</EMAILADDRESSES>
+		</COMMUNICATION>
+	</LOAN>
+	<LOAN UpdateFlag="1" AcctRefno="68">
+		<COMMUNICATION>
+			<EMAILADDRESSES>
+				<EMAILADDRESS Operation="ADD" Address="hphan@nortridge.com"/>
+			</EMAILADDRESSES>
+		</COMMUNICATION>
+	</LOAN>
+	<LOAN UpdateFlag="1" AcctRefno="69">
+		<COMMUNICATION>
+			<EMAILADDRESSES>
+				<EMAILADDRESS Operation="ADD" Address="hphan@nortridge.com"/>
+			</EMAILADDRESSES>
+		</COMMUNICATION>
+	</LOAN>
+	<LOAN UpdateFlag="1" AcctRefno="70">
+		<COMMUNICATION>
+			<EMAILADDRESSES>
+				<EMAILADDRESS Operation="ADD" Address="hphan@nortridge.com"/>
+			</EMAILADDRESSES>
+		</COMMUNICATION>
+	</LOAN>
+	<LOAN UpdateFlag="1" AcctRefno="72">
+		<COMMUNICATION>
+			<EMAILADDRESSES>
+				<EMAILADDRESS Operation="ADD" Address="hphan@nortridge.com"/>
+			</EMAILADDRESSES>
+		</COMMUNICATION>
+	</LOAN>
+	<LOAN UpdateFlag="1" AcctRefno="73">
+		<COMMUNICATION>
+			<EMAILADDRESSES>
+				<EMAILADDRESS Operation="ADD" Address="hphan@nortridge.com"/>
+			</EMAILADDRESSES>
+		</COMMUNICATION>
+	</LOAN>
+	<LOAN UpdateFlag="1" AcctRefno="74">
+		<COMMUNICATION>
+			<EMAILADDRESSES>
+				<EMAILADDRESS Operation="ADD" Address="hphan@nortridge.com"/>
+			</EMAILADDRESSES>
+		</COMMUNICATION>
+	</LOAN>
+	<LOAN UpdateFlag="1" AcctRefno="78">
+		<COMMUNICATION>
+			<EMAILADDRESSES>
+				<EMAILADDRESS Operation="ADD" Address="hphan@nortridge.com"/>
+			</EMAILADDRESSES>
+		</COMMUNICATION>
+	</LOAN>
+	<LOAN UpdateFlag="1" AcctRefno="79">
+		<COMMUNICATION>
+			<EMAILADDRESSES>
+				<EMAILADDRESS Operation="ADD" Address="hphan@nortridge.com"/>
+			</EMAILADDRESSES>
+		</COMMUNICATION>
+	</LOAN>
+	<LOAN UpdateFlag="1" AcctRefno="80">
+		<COMMUNICATION>
+			<EMAILADDRESSES>
+				<EMAILADDRESS Operation="ADD" Address="hphan@nortridge.com"/>
+			</EMAILADDRESSES>
+		</COMMUNICATION>
+	</LOAN>
+	<LOAN UpdateFlag="1" AcctRefno="81">
+		<COMMUNICATION>
+			<EMAILADDRESSES>
+				<EMAILADDRESS Operation="ADD" Address="hphan@nortridge.com"/>
+			</EMAILADDRESSES>
+		</COMMUNICATION>
+	</LOAN>
+	<LOAN UpdateFlag="1" AcctRefno="82">
+		<COMMUNICATION>
+			<EMAILADDRESSES>
+				<EMAILADDRESS Operation="ADD" Address="hphan@nortridge.com"/>
+			</EMAILADDRESSES>
+		</COMMUNICATION>
+	</LOAN>
+	<LOAN UpdateFlag="1" AcctRefno="83">
+		<COMMUNICATION>
+			<EMAILADDRESSES>
+				<EMAILADDRESS Operation="ADD" Address="hphan@nortridge.com"/>
+			</EMAILADDRESSES>
+		</COMMUNICATION>
+	</LOAN>
+	<LOAN UpdateFlag="1" AcctRefno="84">
+		<COMMUNICATION>
+			<EMAILADDRESSES>
+				<EMAILADDRESS Operation="ADD" Address="hphan@nortridge.com"/>
+			</EMAILADDRESSES>
+		</COMMUNICATION>
+	</LOAN>
+	<LOAN UpdateFlag="1" AcctRefno="85">
+		<COMMUNICATION>
+			<EMAILADDRESSES>
+				<EMAILADDRESS Operation="ADD" Address="hphan@nortridge.com"/>
+			</EMAILADDRESSES>
+		</COMMUNICATION>
+	</LOAN>
+	<LOAN UpdateFlag="1" AcctRefno="86">
+		<COMMUNICATION>
+			<EMAILADDRESSES>
+				<EMAILADDRESS Operation="ADD" Address="hphan@nortridge.com"/>
+			</EMAILADDRESSES>
+		</COMMUNICATION>
+	</LOAN>
+	<LOAN UpdateFlag="1" AcctRefno="87">
+		<COMMUNICATION>
+			<EMAILADDRESSES>
+				<EMAILADDRESS Operation="ADD" Address="hphan@nortridge.com"/>
+			</EMAILADDRESSES>
+		</COMMUNICATION>
+	</LOAN>
+	<LOAN UpdateFlag="1" AcctRefno="88">
+		<COMMUNICATION>
+			<EMAILADDRESSES>
+				<EMAILADDRESS Operation="ADD" Address="hphan@nortridge.com"/>
+			</EMAILADDRESSES>
+		</COMMUNICATION>
+	</LOAN>
+	<LOAN UpdateFlag="1" AcctRefno="89">
+		<COMMUNICATION>
+			<EMAILADDRESSES>
+				<EMAILADDRESS Operation="ADD" Address="hphan@nortridge.com"/>
+			</EMAILADDRESSES>
+		</COMMUNICATION>
+	</LOAN>
+	<LOAN UpdateFlag="1" AcctRefno="90">
+		<COMMUNICATION>
+			<EMAILADDRESSES>
+				<EMAILADDRESS Operation="ADD" Address="hphan@nortridge.com"/>
+			</EMAILADDRESSES>
+		</COMMUNICATION>
+	</LOAN>
+	<LOAN UpdateFlag="1" AcctRefno="91">
+		<COMMUNICATION>
+			<EMAILADDRESSES>
+				<EMAILADDRESS Operation="ADD" Address="hphan@nortridge.com"/>
+			</EMAILADDRESSES>
+		</COMMUNICATION>
+	</LOAN>
+	<LOAN UpdateFlag="1" AcctRefno="92">
+		<COMMUNICATION>
+			<EMAILADDRESSES>
+				<EMAILADDRESS Operation="ADD" Address="hphan@nortridge.com"/>
+			</EMAILADDRESSES>
+		</COMMUNICATION>
+	</LOAN>
+	<LOAN UpdateFlag="1" AcctRefno="93">
+		<COMMUNICATION>
+			<EMAILADDRESSES>
+				<EMAILADDRESS Operation="ADD" Address="hphan@nortridge.com"/>
+			</EMAILADDRESSES>
+		</COMMUNICATION>
+	</LOAN>
+	<LOAN UpdateFlag="1" AcctRefno="94">
+		<COMMUNICATION>
+			<EMAILADDRESSES>
+				<EMAILADDRESS Operation="ADD" Address="hphan@nortridge.com"/>
+			</EMAILADDRESSES>
+		</COMMUNICATION>
+	</LOAN>
+	<LOAN UpdateFlag="1" AcctRefno="95">
+		<COMMUNICATION>
+			<EMAILADDRESSES>
+				<EMAILADDRESS Operation="ADD" Address="hphan@nortridge.com"/>
+			</EMAILADDRESSES>
+		</COMMUNICATION>
+	</LOAN>
+	<LOAN UpdateFlag="1" AcctRefno="96">
+		<COMMUNICATION>
+			<EMAILADDRESSES>
+				<EMAILADDRESS Operation="ADD" Address="hphan@nortridge.com"/>
+			</EMAILADDRESSES>
+		</COMMUNICATION>
+	</LOAN>
+	<LOAN UpdateFlag="1" AcctRefno="97">
+		<COMMUNICATION>
+			<EMAILADDRESSES>
+				<EMAILADDRESS Operation="ADD" Address="hphan@nortridge.com"/>
+			</EMAILADDRESSES>
+		</COMMUNICATION>
+	</LOAN>
+	<LOAN UpdateFlag="1" AcctRefno="98">
+		<COMMUNICATION>
+			<EMAILADDRESSES>
+				<EMAILADDRESS Operation="ADD" Address="hphan@nortridge.com"/>
+			</EMAILADDRESSES>
+		</COMMUNICATION>
+	</LOAN>
+	<LOAN UpdateFlag="1" AcctRefno="99">
+		<COMMUNICATION>
+			<EMAILADDRESSES>
+				<EMAILADDRESS Operation="ADD" Address="hphan@nortridge.com"/>
+			</EMAILADDRESSES>
+		</COMMUNICATION>
+	</LOAN>
+	<LOAN UpdateFlag="1" AcctRefno="100">
+		<COMMUNICATION>
+			<EMAILADDRESSES>
+				<EMAILADDRESS Operation="ADD" Address="hphan@nortridge.com"/>
+			</EMAILADDRESSES>
+		</COMMUNICATION>
+	</LOAN>
+	<LOAN UpdateFlag="1" AcctRefno="101">
+		<COMMUNICATION>
+			<EMAILADDRESSES>
+				<EMAILADDRESS Operation="ADD" Address="hphan@nortridge.com"/>
+			</EMAILADDRESSES>
+		</COMMUNICATION>
+	</LOAN>
+	<LOAN UpdateFlag="1" AcctRefno="102">
+		<COMMUNICATION>
+			<EMAILADDRESSES>
+				<EMAILADDRESS Operation="ADD" Address="hphan@nortridge.com"/>
+			</EMAILADDRESSES>
+		</COMMUNICATION>
+	</LOAN>
+	<LOAN UpdateFlag="1" AcctRefno="103">
+		<COMMUNICATION>
+			<EMAILADDRESSES>
+				<EMAILADDRESS Operation="ADD" Address="hphan@nortridge.com"/>
+			</EMAILADDRESSES>
+		</COMMUNICATION>
+	</LOAN>
+	<LOAN UpdateFlag="1" AcctRefno="104">
+		<COMMUNICATION>
+			<EMAILADDRESSES>
+				<EMAILADDRESS Operation="ADD" Address="hphan@nortridge.com"/>
+			</EMAILADDRESSES>
+		</COMMUNICATION>
+	</LOAN>
+	<LOAN UpdateFlag="1" AcctRefno="105">
+		<COMMUNICATION>
+			<EMAILADDRESSES>
+				<EMAILADDRESS Operation="ADD" Address="hphan@nortridge.com"/>
+			</EMAILADDRESSES>
+		</COMMUNICATION>
+	</LOAN>
+	<LOAN UpdateFlag="1" AcctRefno="106">
+		<COMMUNICATION>
+			<EMAILADDRESSES>
+				<EMAILADDRESS Operation="ADD" Address="hphan@nortridge.com"/>
+			</EMAILADDRESSES>
+		</COMMUNICATION>
+	</LOAN>
+	<LOAN UpdateFlag="1" AcctRefno="107">
+		<COMMUNICATION>
+			<EMAILADDRESSES>
+				<EMAILADDRESS Operation="ADD" Address="hphan@nortridge.com"/>
+			</EMAILADDRESSES>
+		</COMMUNICATION>
+	</LOAN>
+	<LOAN UpdateFlag="1" AcctRefno="108">
+		<COMMUNICATION>
+			<EMAILADDRESSES>
+				<EMAILADDRESS Operation="ADD" Address="hphan@nortridge.com"/>
+			</EMAILADDRESSES>
+		</COMMUNICATION>
+	</LOAN>
+	<LOAN UpdateFlag="1" AcctRefno="109">
+		<COMMUNICATION>
+			<EMAILADDRESSES>
+				<EMAILADDRESS Operation="ADD" Address="hphan@nortridge.com"/>
+			</EMAILADDRESSES>
+		</COMMUNICATION>
+	</LOAN>
+	<LOAN UpdateFlag="1" AcctRefno="110">
+		<COMMUNICATION>
+			<EMAILADDRESSES>
+				<EMAILADDRESS Operation="ADD" Address="hphan@nortridge.com"/>
+			</EMAILADDRESSES>
+		</COMMUNICATION>
+	</LOAN>
+	<LOAN UpdateFlag="1" AcctRefno="111">
+		<COMMUNICATION>
+			<EMAILADDRESSES>
+				<EMAILADDRESS Operation="ADD" Address="hphan@nortridge.com"/>
+			</EMAILADDRESSES>
+		</COMMUNICATION>
+	</LOAN>
+	<LOAN UpdateFlag="1" AcctRefno="112">
+		<COMMUNICATION>
+			<EMAILADDRESSES>
+				<EMAILADDRESS Operation="ADD" Address="hphan@nortridge.com"/>
+			</EMAILADDRESSES>
+		</COMMUNICATION>
+	</LOAN>
+	<LOAN UpdateFlag="1" AcctRefno="113">
+		<COMMUNICATION>
+			<EMAILADDRESSES>
+				<EMAILADDRESS Operation="ADD" Address="hphan@nortridge.com"/>
+			</EMAILADDRESSES>
+		</COMMUNICATION>
+	</LOAN>
+	<LOAN UpdateFlag="1" AcctRefno="114">
+		<COMMUNICATION>
+			<EMAILADDRESSES>
+				<EMAILADDRESS Operation="ADD" Address="hphan@nortridge.com"/>
+			</EMAILADDRESSES>
+		</COMMUNICATION>
+	</LOAN>
+	<LOAN UpdateFlag="1" AcctRefno="115">
+		<COMMUNICATION>
+			<EMAILADDRESSES>
+				<EMAILADDRESS Operation="ADD" Address="hphan@nortridge.com"/>
+			</EMAILADDRESSES>
+		</COMMUNICATION>
+	</LOAN>
+	<LOAN UpdateFlag="1" AcctRefno="116">
+		<COMMUNICATION>
+			<EMAILADDRESSES>
+				<EMAILADDRESS Operation="ADD" Address="hphan@nortridge.com"/>
+			</EMAILADDRESSES>
+		</COMMUNICATION>
+	</LOAN>
+	<LOAN UpdateFlag="1" AcctRefno="117">
+		<COMMUNICATION>
+			<EMAILADDRESSES>
+				<EMAILADDRESS Operation="ADD" Address="hphan@nortridge.com"/>
+			</EMAILADDRESSES>
+		</COMMUNICATION>
+	</LOAN>
+	<LOAN UpdateFlag="1" AcctRefno="118">
+		<COMMUNICATION>
+			<EMAILADDRESSES>
+				<EMAILADDRESS Operation="ADD" Address="hphan@nortridge.com"/>
+			</EMAILADDRESSES>
+		</COMMUNICATION>
+	</LOAN>
+	<LOAN UpdateFlag="1" AcctRefno="119">
+		<COMMUNICATION>
+			<EMAILADDRESSES>
+				<EMAILADDRESS Operation="ADD" Address="hphan@nortridge.com"/>
+			</EMAILADDRESSES>
+		</COMMUNICATION>
+	</LOAN>
+	<LOAN UpdateFlag="1" AcctRefno="120">
+		<COMMUNICATION>
+			<EMAILADDRESSES>
+				<EMAILADDRESS Operation="ADD" Address="hphan@nortridge.com"/>
+			</EMAILADDRESSES>
+		</COMMUNICATION>
+	</LOAN>
+	<LOAN UpdateFlag="1" AcctRefno="121">
+		<COMMUNICATION>
+			<EMAILADDRESSES>
+				<EMAILADDRESS Operation="ADD" Address="hphan@nortridge.com"/>
+			</EMAILADDRESSES>
+		</COMMUNICATION>
+	</LOAN>
+	<LOAN UpdateFlag="1" AcctRefno="122">
+		<COMMUNICATION>
+			<EMAILADDRESSES>
+				<EMAILADDRESS Operation="ADD" Address="hphan@nortridge.com"/>
+			</EMAILADDRESSES>
+		</COMMUNICATION>
+	</LOAN>
+	<LOAN UpdateFlag="1" AcctRefno="123">
+		<COMMUNICATION>
+			<EMAILADDRESSES>
+				<EMAILADDRESS Operation="ADD" Address="hphan@nortridge.com"/>
+			</EMAILADDRESSES>
+		</COMMUNICATION>
+	</LOAN>
+	<LOAN UpdateFlag="1" AcctRefno="124">
+		<COMMUNICATION>
+			<EMAILADDRESSES>
+				<EMAILADDRESS Operation="ADD" Address="hphan@nortridge.com"/>
+			</EMAILADDRESSES>
+		</COMMUNICATION>
+	</LOAN>
+	<LOAN UpdateFlag="1" AcctRefno="125">
+		<COMMUNICATION>
+			<EMAILADDRESSES>
+				<EMAILADDRESS Operation="ADD" Address="hphan@nortridge.com"/>
+			</EMAILADDRESSES>
+		</COMMUNICATION>
+	</LOAN>
+	<LOAN UpdateFlag="1" AcctRefno="126">
+		<COMMUNICATION>
+			<EMAILADDRESSES>
+				<EMAILADDRESS Operation="ADD" Address="hphan@nortridge.com"/>
+			</EMAILADDRESSES>
+		</COMMUNICATION>
+	</LOAN>
+	<LOAN UpdateFlag="1" AcctRefno="127">
+		<COMMUNICATION>
+			<EMAILADDRESSES>
+				<EMAILADDRESS Operation="ADD" Address="hphan@nortridge.com"/>
+			</EMAILADDRESSES>
+		</COMMUNICATION>
+	</LOAN>
+	<LOAN UpdateFlag="1" AcctRefno="128">
+		<COMMUNICATION>
+			<EMAILADDRESSES>
+				<EMAILADDRESS Operation="ADD" Address="hphan@nortridge.com"/>
+			</EMAILADDRESSES>
+		</COMMUNICATION>
+	</LOAN>
+	<LOAN UpdateFlag="1" AcctRefno="129">
+		<COMMUNICATION>
+			<EMAILADDRESSES>
+				<EMAILADDRESS Operation="ADD" Address="hphan@nortridge.com"/>
+			</EMAILADDRESSES>
+		</COMMUNICATION>
+	</LOAN>
+	<LOAN UpdateFlag="1" AcctRefno="130">
+		<COMMUNICATION>
+			<EMAILADDRESSES>
+				<EMAILADDRESS Operation="ADD" Address="hphan@nortridge.com"/>
+			</EMAILADDRESSES>
+		</COMMUNICATION>
+	</LOAN>
+	<LOAN UpdateFlag="1" AcctRefno="131">
+		<COMMUNICATION>
+			<EMAILADDRESSES>
+				<EMAILADDRESS Operation="ADD" Address="hphan@nortridge.com"/>
+			</EMAILADDRESSES>
+		</COMMUNICATION>
+	</LOAN>
+	<LOAN UpdateFlag="1" AcctRefno="132">
+		<COMMUNICATION>
+			<EMAILADDRESSES>
+				<EMAILADDRESS Operation="ADD" Address="hphan@nortridge.com"/>
+			</EMAILADDRESSES>
+		</COMMUNICATION>
+	</LOAN>
+	<LOAN UpdateFlag="1" AcctRefno="134">
+		<COMMUNICATION>
+			<EMAILADDRESSES>
+				<EMAILADDRESS Operation="ADD" Address="hphan@nortridge.com"/>
+			</EMAILADDRESSES>
+		</COMMUNICATION>
+	</LOAN>
+	<LOAN UpdateFlag="1" AcctRefno="135">
+		<COMMUNICATION>
+			<EMAILADDRESSES>
+				<EMAILADDRESS Operation="ADD" Address="hphan@nortridge.com"/>
+			</EMAILADDRESSES>
+		</COMMUNICATION>
+	</LOAN>
+	<LOAN UpdateFlag="1" AcctRefno="136">
+		<COMMUNICATION>
+			<EMAILADDRESSES>
+				<EMAILADDRESS Operation="ADD" Address="hphan@nortridge.com"/>
+			</EMAILADDRESSES>
+		</COMMUNICATION>
+	</LOAN>
+	<LOAN UpdateFlag="1" AcctRefno="137">
+		<COMMUNICATION>
+			<EMAILADDRESSES>
+				<EMAILADDRESS Operation="ADD" Address="hphan@nortridge.com"/>
+			</EMAILADDRESSES>
+		</COMMUNICATION>
+	</LOAN>
+	<LOAN UpdateFlag="1" AcctRefno="138">
+		<COMMUNICATION>
+			<EMAILADDRESSES>
+				<EMAILADDRESS Operation="ADD" Address="hphan@nortridge.com"/>
+			</EMAILADDRESSES>
+		</COMMUNICATION>
+	</LOAN>
+	<LOAN UpdateFlag="1" AcctRefno="139">
+		<COMMUNICATION>
+			<EMAILADDRESSES>
+				<EMAILADDRESS Operation="ADD" Address="hphan@nortridge.com"/>
+			</EMAILADDRESSES>
+		</COMMUNICATION>
+	</LOAN>
+	<LOAN UpdateFlag="1" AcctRefno="140">
+		<COMMUNICATION>
+			<EMAILADDRESSES>
+				<EMAILADDRESS Operation="ADD" Address="hphan@nortridge.com"/>
+			</EMAILADDRESSES>
+		</COMMUNICATION>
+	</LOAN>
+	<LOAN UpdateFlag="1" AcctRefno="141">
+		<COMMUNICATION>
+			<EMAILADDRESSES>
+				<EMAILADDRESS Operation="ADD" Address="hphan@nortridge.com"/>
+			</EMAILADDRESSES>
+		</COMMUNICATION>
+	</LOAN>
+	<LOAN UpdateFlag="1" AcctRefno="142">
+		<COMMUNICATION>
+			<EMAILADDRESSES>
+				<EMAILADDRESS Operation="ADD" Address="hphan@nortridge.com"/>
+			</EMAILADDRESSES>
+		</COMMUNICATION>
+	</LOAN>
+	<LOAN UpdateFlag="1" AcctRefno="143">
+		<COMMUNICATION>
+			<EMAILADDRESSES>
+				<EMAILADDRESS Operation="ADD" Address="hphan@nortridge.com"/>
+			</EMAILADDRESSES>
+		</COMMUNICATION>
+	</LOAN>
+	<LOAN UpdateFlag="1" AcctRefno="144">
+		<COMMUNICATION>
+			<EMAILADDRESSES>
+				<EMAILADDRESS Operation="ADD" Address="hphan@nortridge.com"/>
+			</EMAILADDRESSES>
+		</COMMUNICATION>
+	</LOAN>
+	<LOAN UpdateFlag="1" AcctRefno="145">
+		<COMMUNICATION>
+			<EMAILADDRESSES>
+				<EMAILADDRESS Operation="ADD" Address="hphan@nortridge.com"/>
+			</EMAILADDRESSES>
+		</COMMUNICATION>
+	</LOAN>
+	<LOAN UpdateFlag="1" AcctRefno="146">
+		<COMMUNICATION>
+			<EMAILADDRESSES>
+				<EMAILADDRESS Operation="ADD" Address="hphan@nortridge.com"/>
+			</EMAILADDRESSES>
+		</COMMUNICATION>
+	</LOAN>
+	<LOAN UpdateFlag="1" AcctRefno="147">
+		<COMMUNICATION>
+			<EMAILADDRESSES>
+				<EMAILADDRESS Operation="ADD" Address="hphan@nortridge.com"/>
+			</EMAILADDRESSES>
+		</COMMUNICATION>
+	</LOAN>
+	<LOAN UpdateFlag="1" AcctRefno="148">
+		<COMMUNICATION>
+			<EMAILADDRESSES>
+				<EMAILADDRESS Operation="ADD" Address="hphan@nortridge.com"/>
+			</EMAILADDRESSES>
+		</COMMUNICATION>
+	</LOAN>
+	<LOAN UpdateFlag="1" AcctRefno="149">
+		<COMMUNICATION>
+			<EMAILADDRESSES>
+				<EMAILADDRESS Operation="ADD" Address="hphan@nortridge.com"/>
+			</EMAILADDRESSES>
+		</COMMUNICATION>
+	</LOAN>
+	<LOAN UpdateFlag="1" AcctRefno="150">
+		<COMMUNICATION>
+			<EMAILADDRESSES>
+				<EMAILADDRESS Operation="ADD" Address="hphan@nortridge.com"/>
+			</EMAILADDRESSES>
+		</COMMUNICATION>
+	</LOAN>
+	<LOAN UpdateFlag="1" AcctRefno="151">
+		<COMMUNICATION>
+			<EMAILADDRESSES>
+				<EMAILADDRESS Operation="ADD" Address="hphan@nortridge.com"/>
+			</EMAILADDRESSES>
+		</COMMUNICATION>
+	</LOAN>
+	<LOAN UpdateFlag="1" AcctRefno="152">
+		<COMMUNICATION>
+			<EMAILADDRESSES>
+				<EMAILADDRESS Operation="ADD" Address="hphan@nortridge.com"/>
+			</EMAILADDRESSES>
+		</COMMUNICATION>
+	</LOAN>
+	<LOAN UpdateFlag="1" AcctRefno="153">
+		<COMMUNICATION>
+			<EMAILADDRESSES>
+				<EMAILADDRESS Operation="ADD" Address="hphan@nortridge.com"/>
+			</EMAILADDRESSES>
+		</COMMUNICATION>
+	</LOAN>
+	<LOAN UpdateFlag="1" AcctRefno="154">
+		<COMMUNICATION>
+			<EMAILADDRESSES>
+				<EMAILADDRESS Operation="ADD" Address="hphan@nortridge.com"/>
+			</EMAILADDRESSES>
+		</COMMUNICATION>
+	</LOAN>
+	<LOAN UpdateFlag="1" AcctRefno="155">
+		<COMMUNICATION>
+			<EMAILADDRESSES>
+				<EMAILADDRESS Operation="ADD" Address="hphan@nortridge.com"/>
+			</EMAILADDRESSES>
+		</COMMUNICATION>
+	</LOAN>
+	<LOAN UpdateFlag="1" AcctRefno="156">
+		<COMMUNICATION>
+			<EMAILADDRESSES>
+				<EMAILADDRESS Operation="ADD" Address="hphan@nortridge.com"/>
+			</EMAILADDRESSES>
+		</COMMUNICATION>
+	</LOAN>
+	<LOAN UpdateFlag="1" AcctRefno="157">
+		<COMMUNICATION>
+			<EMAILADDRESSES>
+				<EMAILADDRESS Operation="ADD" Address="hphan@nortridge.com"/>
+			</EMAILADDRESSES>
+		</COMMUNICATION>
+	</LOAN>
+	<LOAN UpdateFlag="1" AcctRefno="158">
+		<COMMUNICATION>
+			<EMAILADDRESSES>
+				<EMAILADDRESS Operation="ADD" Address="hphan@nortridge.com"/>
+			</EMAILADDRESSES>
+		</COMMUNICATION>
+	</LOAN>
+	<LOAN UpdateFlag="1" AcctRefno="159">
+		<COMMUNICATION>
+			<EMAILADDRESSES>
+				<EMAILADDRESS Operation="ADD" Address="hphan@nortridge.com"/>
+			</EMAILADDRESSES>
+		</COMMUNICATION>
+	</LOAN>
+	<LOAN UpdateFlag="1" AcctRefno="160">
+		<COMMUNICATION>
+			<EMAILADDRESSES>
+				<EMAILADDRESS Operation="ADD" Address="hphan@nortridge.com"/>
+			</EMAILADDRESSES>
+		</COMMUNICATION>
+	</LOAN>
+	<LOAN UpdateFlag="1" AcctRefno="161">
+		<COMMUNICATION>
+			<EMAILADDRESSES>
+				<EMAILADDRESS Operation="ADD" Address="hphan@nortridge.com"/>
+			</EMAILADDRESSES>
+		</COMMUNICATION>
+	</LOAN>
+</NLS>
