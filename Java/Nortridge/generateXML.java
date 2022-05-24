@@ -8,7 +8,7 @@ public class generateXML {
 
         String mainXML = "";
         String XML1 = "\t<LOAN UpdateFlag=\"1\" AcctRefno=\"";
-        String XML2 = "\">\n\t\t<COMMUNICATION>\n\t\t\t<EMAILADDRESSES>\n\t\t\t\t<EMAILADDRESS Operation=\"ADD\" Address=\"hphan@nortridge.com" + 
+        String XML2 = "\">\n\t\t<COMMUNICATION>\n\t\t\t<EMAILADDRESSES>\n\t\t\t\t<EMAILADDRESS Operation=\"REMOVE\" Address=\"statements@firstcommercellc.com" + 
         "\"/>\n\t\t\t</EMAILADDRESSES>\n\t\t</COMMUNICATION>\n\t</LOAN>";
         FileWriter fw = new FileWriter("addEmailToAllLoans.xml");
         
@@ -16,7 +16,7 @@ public class generateXML {
 
         BufferedReader reader;
 		try {
-			reader = new BufferedReader(new FileReader("result2.txt"));
+			reader = new BufferedReader(new FileReader("acctrefno.txt"));
             // read first line
 			String line = reader.readLine();
 			while (line != null) {
